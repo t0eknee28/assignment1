@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>European Travel Urban Destionations</title>
+  <title>European Travel Urban Destinations</title>
 </head>
 
 <body>
